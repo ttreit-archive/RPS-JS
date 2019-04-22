@@ -10,5 +10,5 @@
     //paper beats rock, rock beats scissors, scissors beats paper
 //Display win, lose, tie message
 //Ask if user wants to play again
-
+//Have option to list the rules of the game
 
